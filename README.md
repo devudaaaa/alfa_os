@@ -1,8 +1,8 @@
-# alfa_o
+# alfa_os
 
-### Your AI is smart. It is not careful. alfa_o makes it careful.
+### Your AI is smart. It is not careful. alfa_os makes it careful.
 
-alfa_o is an operating system for working with AI. A method your AI follows, a guard that holds the walls, and a seal that proves where your copy came from. It runs on every model, in every editor, on every machine, including the locked down one at work.
+alfa_os is an operating system for working with AI. A method your AI follows, a guard that holds the walls, and a seal that proves where your copy came from. It runs on every model, in every editor, on every machine, including the locked down one at work.
 
 ---
 
@@ -37,7 +37,7 @@ Nothing about the model changed. What changed is the system it was running insid
 
 1. **Get it.**
    ```bash
-   git clone https://github.com/Leeladitya/alfa_o.git
+   git clone https://github.com/devudaaaa/alfa_os.git
    ```
 2. **Load it into your AI.**
    - **Claude Code or any coding agent:** put the folder in your project.
